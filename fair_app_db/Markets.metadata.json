@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"fair_customer1.Markets"}],"uuid":"61f689e9ba824f0f927e1ba2af4dffe2"}
